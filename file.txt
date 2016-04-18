@@ -2,4 +2,4 @@ aholllla
 
 Otras cosas
 
-clave = "123456"
+clave = "12345"
