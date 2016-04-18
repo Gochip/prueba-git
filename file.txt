@@ -1,5 +1,5 @@
 aholllla
 
-Otras cosas
+Otras cos
 
 clave = "12345"
